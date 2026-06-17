@@ -1,0 +1,185 @@
+{
+  "version": 2,
+  "plugins": {
+    "agent-sdk-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\agent-sdk-dev\\8a749a478e5f",
+        "version": "8a749a478e5f",
+        "installedAt": "2026-03-17T21:26:53.556Z",
+        "lastUpdated": "2026-04-01T14:19:22.932Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "circleback@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\circleback\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-03-17T21:27:13.409Z",
+        "lastUpdated": "2026-03-17T21:27:13.409Z",
+        "gitCommitSha": "6369dec7da4059dd0a12cf1b62ba749799ee15ef"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\code-review\\8a749a478e5f",
+        "version": "8a749a478e5f",
+        "installedAt": "2026-03-17T21:27:16.339Z",
+        "lastUpdated": "2026-04-01T14:19:22.907Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "figma@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\figma\\2.2.12",
+        "version": "2.2.12",
+        "installedAt": "2026-03-17T21:27:30.871Z",
+        "lastUpdated": "2026-05-19T09:18:49.820Z",
+        "gitCommitSha": "f046182e32c8160b1254ad12ec8318f9a9aa50b5"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\claude-md-management\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-03-17T21:27:38.127Z",
+        "lastUpdated": "2026-03-17T21:27:38.127Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\claude-code-setup\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-03-17T21:27:47.982Z",
+        "lastUpdated": "2026-03-17T21:27:47.982Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\context7\\8a749a478e5f",
+        "version": "8a749a478e5f",
+        "installedAt": "2026-03-17T21:27:55.787Z",
+        "lastUpdated": "2026-04-01T14:19:22.821Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\github\\8a749a478e5f",
+        "version": "8a749a478e5f",
+        "installedAt": "2026-03-17T21:28:06.163Z",
+        "lastUpdated": "2026-04-01T14:19:22.873Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "huggingface-skills@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\huggingface-skills\\1.0.1",
+        "version": "1.0.1",
+        "installedAt": "2026-03-17T21:28:17.598Z",
+        "lastUpdated": "2026-03-17T21:28:17.598Z",
+        "gitCommitSha": "835b13732d70dee5981f93d4e1842775205718e1"
+      }
+    ],
+    "autofix-bot@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\autofix-bot\\78497c524da3",
+        "version": "78497c524da3",
+        "installedAt": "2026-03-17T21:31:12.546Z",
+        "lastUpdated": "2026-03-17T21:31:12.546Z",
+        "gitCommitSha": "78497c524da3762865d47377357c30af5b50d522"
+      }
+    ],
+    "wix@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\wix\\1.1.0",
+        "version": "1.1.0",
+        "installedAt": "2026-04-04T06:56:31.636Z",
+        "lastUpdated": "2026-05-19T09:18:51.162Z",
+        "gitCommitSha": "15dda227e34959b1340e33bb9aede7e23a273f42"
+      }
+    ],
+    "serena@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\serena\\8a749a478e5f",
+        "version": "8a749a478e5f",
+        "installedAt": "2026-04-20T15:46:55.235Z",
+        "lastUpdated": "2026-04-20T15:46:55.235Z",
+        "gitCommitSha": "8a749a478e5ff16a0967b7f0de0995e7e51c729e"
+      }
+    ],
+    "vercel@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\vercel\\0.43.0",
+        "version": "0.43.0",
+        "installedAt": "2026-04-20T15:47:10.453Z",
+        "lastUpdated": "2026-05-19T09:18:52.593Z",
+        "gitCommitSha": "8db97f0ce51120ac056a4e557f627a9428db4d74"
+      }
+    ],
+    "typescript-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\typescript-lsp\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-20T15:47:17.430Z",
+        "lastUpdated": "2026-04-20T15:47:17.430Z",
+        "gitCommitSha": "8a749a478e5ff16a0967b7f0de0995e7e51c729e"
+      }
+    ],
+    "shopify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\shopify\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-20T15:47:34.912Z",
+        "lastUpdated": "2026-04-20T15:47:34.912Z",
+        "gitCommitSha": "5631b93b88759561fec321192b6b083dbf0a2fd2"
+      }
+    ],
+    "shopify-ai-toolkit@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\shopify-ai-toolkit\\1.2.2",
+        "version": "1.2.2",
+        "installedAt": "2026-04-20T15:47:40.532Z",
+        "lastUpdated": "2026-05-19T09:18:50.445Z",
+        "gitCommitSha": "a947b8ae1ed78df19d9b4e509e5bb100a89df632"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\frontend-design\\8a749a478e5f",
+        "version": "8a749a478e5f",
+        "installedAt": "2026-05-12T06:03:16.051Z",
+        "lastUpdated": "2026-05-12T06:03:16.051Z",
+        "gitCommitSha": "8a749a478e5ff16a0967b7f0de0995e7e51c729e"
+      }
+    ],
+    "apollo@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\mcvea\\.claude\\plugins\\cache\\claude-plugins-official\\apollo\\0.1.1",
+        "version": "0.1.1",
+        "installedAt": "2026-05-12T06:03:21.674Z",
+        "lastUpdated": "2026-05-12T06:03:21.674Z",
+        "gitCommitSha": "79577f9361c8b0d89e9fa36a1511bd4b37375f40"
+      }
+    ]
+  }
+}
