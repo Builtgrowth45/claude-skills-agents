@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "plugins",
+  "owner": "a5c-ai",
+  "repo": "babysitter",
+  "path": "plugins/babysitter-omp/skills/plugins",
+  "branch": "main",
+  "sha": "8d22d080dcf81e515e7a41ca150a2ad455f6c9b7",
+  "source": "manual"
+}

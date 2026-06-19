@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "caveman",
+  "owner": "hashgraph-online",
+  "repo": "awesome-codex-plugins",
+  "path": "plugins/JuliusBrussee/blueprint/skills/caveman",
+  "branch": "main",
+  "sha": "ed955c527b936ba31bfd0ca79bf2d81239398cba",
+  "source": "manual"
+}

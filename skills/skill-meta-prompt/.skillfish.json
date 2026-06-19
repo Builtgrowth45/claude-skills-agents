@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "skill-meta-prompt",
+  "owner": "nyldn",
+  "repo": "claude-octopus",
+  "path": ".claude/skills/skill-meta-prompt",
+  "branch": "main",
+  "sha": "f3428037c0137065602cf7fe9e1a0ec937f9592a",
+  "source": "manual"
+}
